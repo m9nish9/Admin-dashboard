@@ -21,10 +21,6 @@ A modern and responsive admin dashboard built with React.js and Tailwind CSS. Th
 - Tailwind CSS
 - Vite
 
-## 📸 Screenshots
-
-_Add screenshots of your application here._
-
 ## 🎯 About the Project
 
 This Admin Dashboard is a frontend-focused project designed to showcase modern UI/UX practices. The application emphasizes responsive design, smooth animations, and reusable components to create a professional dashboard experience across different screen sizes.
